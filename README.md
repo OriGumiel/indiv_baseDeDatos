@@ -1,0 +1,1 @@
+Las tablas fueron realizadas con Dynobird y el relleno de base de datos en DBeaver.
